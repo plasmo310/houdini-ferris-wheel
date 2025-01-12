@@ -1,8 +1,8 @@
 # houdini-ferris-wheel
 SOP、VEXを使用して制作した観覧車サンプルです。<br>
-HDA化しているため、様々なバリエーションを簡単に作成することができます。
+HDAにしているため、様々なバリエーションを簡単に作成することができます。
 
-<img src="ReadMeContents/01_ferris_wheel_many.PNG" width="480" alt=""/>
+<img src="ReadMeContents/01_ferris_wheel_many.PNG" width="520" alt=""/>
 
 <img src="ReadMeContents/02_ferris_wheel_bottom_top.PNG" width="600" alt=""/>
 
@@ -10,7 +10,7 @@ HDA化しているため、様々なバリエーションを簡単に作成す�
 ## Houdiniバージョン
 - Houdini Indie 20.5
 
-## HDAファイル
+## HDAファイル一覧
 
 * <a href="hda">hda</a>フォルダ配下に作成した資産を格納しています。<br>
 
